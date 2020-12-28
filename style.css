@@ -1,0 +1,32 @@
+h1{
+
+color: white ;
+background-color: black;
+    
+}
+.menu{
+
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+.grid img{
+
+border : 2px solid black;
+border-radius:50px;
+
+}
+.origami{
+
+border-radius: 20px;
+background-color: skyblue;
+
+width:310px;
+font-family: fantasy;
+}
